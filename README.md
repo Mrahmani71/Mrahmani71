@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Mrahmani71
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT,
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NodeJS, Bootstrap, Git, Github
