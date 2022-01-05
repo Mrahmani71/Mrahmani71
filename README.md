@@ -3,11 +3,6 @@
 - 👋 Hi, I’m @Mrahmani71
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NodeJS, Bootstrap, Git, Github
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
 <div align="center"> 
 
 ### Programming Language
