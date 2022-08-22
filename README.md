@@ -1,6 +1,12 @@
 <h3 align="center">A passionate Full Stack developer from France</h3>
 
-- 👋 Hi, I’m @Mrahmani71
+### Hi there 👋
+* 👂 My name is **Mohammad**
+* 👩 Pronouns: **/mu.ħam.mad/**
+* 🔭 I’m currently working on []
+* 🌱 I’m currently learning **Concepteur développeur d’applications**
+* 📫 How to reach me: www.mrah.fr
+* ❤️ I love **The**
 
 <div align="center"> 
 
