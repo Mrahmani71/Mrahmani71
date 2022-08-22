@@ -6,7 +6,7 @@
 * 🔭 I’m currently working on []
 * 🌱 I’m currently learning **Concepteur développeur d’applications**
 * 📫 How to reach me: www.mrah.fr
-* ❤️ I love **The**
+* ❤️ I love **Tea**
 
 <div align="center"> 
 
@@ -29,7 +29,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ***
  
 ### Tool And Technology
