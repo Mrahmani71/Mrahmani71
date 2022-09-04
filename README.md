@@ -3,7 +3,6 @@
 ### Hi there 👋
 * 👂 My name is **Mohammad**
 * 👩 Pronouns: **/mu.ħam.mad/**
-* 🔭 I’m currently working on []
 * 🌱 I’m currently learning **Concepteur développeur d’applications**
 * 📫 How to reach me: www.mrah.fr
 * ❤️ I love **Tea**
