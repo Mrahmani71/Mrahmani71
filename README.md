@@ -75,7 +75,7 @@
  ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
  Medium 	![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ## Github Stats
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mrahmani71=anuraghazra&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmani71&show_icons=true&locale=en" alt="mrahmani71" /></p>
 
  </div>
