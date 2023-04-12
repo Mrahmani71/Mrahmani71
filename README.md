@@ -73,7 +73,7 @@
  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
  ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
- Medium 	![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+ ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmani71&langs_count=8)](https://github.com/mrahmani71/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmani71&show_icons=true&locale=en" alt="mrahmani71" /></p>
