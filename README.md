@@ -5,7 +5,7 @@
 * 🤵 Pronouns: **/mu.ħam.mad/**
 * 🌱 I’m currently looking for **work-study training**
 * 📫 How to reach me: www.mrah.fr
-* ❤️ I love **Tea** and "Coding" 
+* ❤️ I love **Tea** and **Coding** 
 
 <div align="center"> 
 
