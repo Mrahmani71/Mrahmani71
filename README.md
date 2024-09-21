@@ -66,8 +66,8 @@
 
 > **Atelier GOHIN** (FR) </br>
 > Une boutique en ligne créé dans le cadre d’un projet de bénévolat. La première version du site avait pour objectif d’afficher et de permettre la vente des produits fabriqués par l’Atelier. Suite à l’arrêt de son activité, la boutique n’avait plus lieu d’avoir cette fonctionnalité et une seconde version a donc été créé pour conserver une trace pour mon projet personnel.
-
-Lien: https://atelier-site.vercel.app/
+>
+>https://atelier-site.vercel.app
 
 
 <!-- Add 2-3 of your best projects here with brief descriptions and links -->
